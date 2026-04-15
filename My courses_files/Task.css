@@ -1,0 +1,11 @@
+table,th,td{width:90%;border:3px solid black;border-collapse:collapse;}
+h2,h1{
+   text-align:center ;
+   text-decoration-color: hotpink;
+  }
+body{
+   background-image:url("screenshot-1776108768175.png"); 
+    } 
+ul{text-align: left;} 
+a:hover{color: #ffffff}   
+form{text-align: center;}
