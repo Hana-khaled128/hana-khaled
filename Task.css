@@ -47,7 +47,8 @@ header{
    padding: 0;
 }
 footer{
-   position: relative;
-   align-items: center;
+   position: center;
+   text-align: center;
    bottom: 0;
+   width:100%;
 }
