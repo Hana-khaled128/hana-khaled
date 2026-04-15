@@ -5,7 +5,14 @@ h2,h1{
   }
 body{  
    padding-top: 120px;
-   background-image:url("screenshot-1776108768175.png"); 
+   background-image:url("screenshot-1776108768175.png");
+   background-size:cover;
+   background-position:center;
+   background-repeat:no-reapet;
+   background-attachment:fixed;
+   width:100%;
+   heigth:100%;
+   overflow-x:hidden;
     } 
 ul{text-align: center;
    list-style-type: none;
